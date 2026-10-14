@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Quiz 1
+  m_EditorClassIdentifier: Assembly-CSharp::QuizDataScriptable
+  categoryName: Mudah
+  questions:
+  - questionInfo: Dasar negara Indonesia adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - UUD 1945
+    - Pancasila
+    - Proklamasi
+    - GBHN
+    correctAns: Pancasila
+  - questionInfo: Konstitusi tertulis Indonesia disebut...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Piagam Jakarta
+    - Pancasila
+    - UUD 1945
+    - Dekrit Presiden
+    correctAns: UUD 1945
+  - questionInfo: Norma yang bersumber dari ajaran Tuhan disebut norma...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Kebiasaan
+    - Hukum
+    - Kesusilaan
+    - Agama
+    correctAns: Agama
+  - questionInfo: Sila pertama Pancasila berbunyi...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ketuhanan Yang Maha Esa
+    - Kemanusiaan yang adil dan beradab
+    - Persatuan Indonesia
+    - Keadilan sosial bagi seluruh rakyat Indonesia
+    correctAns: Ketuhanan Yang Maha Esa
+  - questionInfo: Berbicara dengan sopan kepada guru dan orang tua termasuk pelaksanaan norma...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Hukum
+    - Agama
+    - Kesopanan
+    - Konstitusi
+    correctAns: Kesopanan
+  - questionInfo: Pembukaan UUD 1945 terdiri atas berapa alinea?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 2
+    - 3
+    - 5
+    - 4
+    correctAns: 4
+  - questionInfo: Membiarkan teman beribadah sesuai agamanya merupakan pengamalan Pancasila sila ke...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 2
+    - 5
+    - 3
+    - 1
+    correctAns: 1
+  - questionInfo: Sanksi pelanggaran norma hukum dijatuhkan oleh...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Teman sebaya
+    - Aparat negara
+    - Tokoh masyarakat
+    - Keluarga
+    correctAns: Aparat negara
+  - questionInfo: PPKI mengesahkan UUD 1945 pada tanggal...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 17 Agustus 1945
+    - 1 Juni 1945
+    - 18 Agustus 1945
+    - 22 Juni 1945
+    correctAns: 18 Agustus 1945
+  - questionInfo: Arti semboyan Bhinneka Tunggal Ika adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Bersatu kita teguh, bercerai kita kawin lagi.
+    - Satu nusa satu bangsa
+    - Tuhan menyertai kita
+    - Berbeda-beda tetapi tetap satu
+    correctAns: Berbeda-beda tetapi tetap satu

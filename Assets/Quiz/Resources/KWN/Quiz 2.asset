@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Quiz 2
+  m_EditorClassIdentifier: Assembly-CSharp::QuizDataScriptable
+  categoryName: Sedang
+  questions:
+  - questionInfo: Contoh nilai instrumental adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sila-sila Pancasila
+    - Pembukaan UUD 1945
+    - Undang-Undang Pemilu
+    - Gotong royong saat kerja bakti
+    correctAns: Undang-Undang Pemilu
+  - questionInfo: Norma kesusilaan bersumber dari...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Hati nurani
+    - Negara
+    - Kitab undang-undang
+    - Lembaga adat
+    correctAns: Hati nurani
+  - questionInfo: Peraturan yang kedudukannya tepat di atas Peraturan Presiden adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Undang-Undang
+    - Peraturan Pemerintah
+    - Peraturan Daerah Provinsi
+    - Ketetapan MPR
+    correctAns: Peraturan Pemerintah
+  - questionInfo: Pasal 1 ayat (3) UUD 1945 menyatakan bahwa Indonesia adalah negara...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Kekuasaan
+    - Federal
+    - Agama
+    - Hukum
+    correctAns: Hukum
+  - questionInfo: UUD 1945 diamandemen sebanyak...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 2 kali
+    - 3 kali
+    - 4 kali
+    - 5 kali
+    correctAns: 4 kali
+  - questionInfo: Jaminan kemerdekaan memeluk agama tercantum dalam...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pasal 29 ayat (2)
+    - Pasal 27 ayat (1)
+    - Pasal 31 ayat (1)
+    - Pasal 33 ayat (1)
+    correctAns: Pasal 29 ayat (2)
+  - questionInfo: Fungsi utama konstitusi dalam sebuah negara adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Menambah kekuasaan pemerintah
+    - Membatasi kekuasaan pemerintah
+    - Mengatur harga barang
+    - Menentukan hari libur nasional
+    correctAns: Membatasi kekuasaan pemerintah
+  - questionInfo: Contoh nilai praksis adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Isi Pasal 28 UUD 1945
+    - Aturan dalam Peraturan Pemerintah
+    - Warga ikut kerja bakti membersihkan lingkungan
+    - Rumusan sila ketiga Pancasila
+    correctAns: Warga ikut kerja bakti membersihkan lingkungan
+  - questionInfo: Perbedaan norma hukum dengan norma kesopanan terletak pada...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Wilayah berlakunya yang hanya di desa
+    - Sumbernya yang berasal dari kitab suci
+    - Sanksinya yang berupa rasa malu
+    - Sanksinya yang tegas dan dipaksakan negara
+    correctAns: Sanksinya yang tegas dan dipaksakan negara
+  - questionInfo: Lembaga yang menguji undang-undang terhadap UUD 1945 adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Mahkamah Konstitusi
+    - Mahkamah Agung
+    - DPR
+    - BPK
+    correctAns: Mahkamah Konstitusi

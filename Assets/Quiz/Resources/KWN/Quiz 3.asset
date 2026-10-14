@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Quiz 3
+  m_EditorClassIdentifier: Assembly-CSharp::QuizDataScriptable
+  categoryName: Sulit
+  questions:
+  - questionInfo: Urutan peraturan perundang-undangan yang benar menurut UU No. 12 Tahun 2011 adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - UUD 1945, UU, Ketetapan MPR, Peraturan Pemerintah
+    - UUD 1945, Ketetapan MPR, UU/Perppu, Peraturan Pemerintah
+    - UUD 1945, Peraturan Pemerintah, UU, Peraturan Presiden
+    - Ketetapan MPR, UUD 1945, UU, Peraturan Pemerintah
+    correctAns: UUD 1945, Ketetapan MPR, UU/Perppu, Peraturan Pemerintah
+  - questionInfo: Menurut Pasal 28J ayat (2), pembatasan hak asasi seseorang ditetapkan dengan...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Keputusan presiden
+    - Peraturan daerah
+    - Undang-undang
+    - Putusan hakim
+    correctAns: Undang-undang
+  - questionInfo: Dalam teori jenjang norma Hans Nawiasky, Pancasila berkedudukan sebagai...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Staatsfundamentalnorm
+    - Staatsgrundgesetz
+    - Formell Gesetz
+    - Verordnung & Autonome Satzung
+    correctAns: Staatsfundamentalnorm
+  - questionInfo: Dibandingkan nilai instrumental, nilai dasar bersifat...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Mudah berubah mengikuti zaman
+    - Berbeda di setiap daerah
+    - Khusus dan teknis
+    - Relatif tetap dan tidak mudah berubah
+    correctAns: Relatif tetap dan tidak mudah berubah
+  - questionInfo: Hal berikut yang bukan kewenangan Mahkamah Konstitusi adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Memutus pembubaran partai politik
+    - Menguji Peraturan Pemerintah terhadap undang-undang
+    - Memutus perselisihan hasil pemilihan umum
+    - Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan UUD
+    correctAns: Menguji Peraturan Pemerintah terhadap undang-undang
+  - questionInfo: Usul perubahan pasal UUD 1945 dapat diajukan oleh sekurang-kurangnya...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1/4 anggota MPR
+    - 1/2 anggota MPR
+    - 1/3 anggota MPR
+    - 2/3 anggota MPR
+    correctAns: 1/3 anggota MPR
+  - questionInfo: Sebuah Perda kabupaten bertentangan dengan undang-undang, sehingga undang-undang yang berlaku. Penyelesaian ini memakai asas...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Lex specialis derogat legi generali
+    - Lex posterior derogat legi priori
+    - Ne bis in idem
+    - Lex superior derogat legi inferiori
+    correctAns: Lex superior derogat legi inferiori
+  - questionInfo: Tujuan negara Indonesia tercantum pada Pembukaan UUD 1945 alinea ke...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Keempat
+    - Pertama
+    - Ketiga
+    - Kedua
+    correctAns: Keempat
+  - questionInfo: Prinsip negara hukum yang mewajibkan setiap tindakan pemerintah punya dasar hukum disebut asas...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Oportunitas
+    - Legalitas
+    - Proporsionalitas
+    - Kolegialitas
+    correctAns: Legalitas
+  - questionInfo: Sebuah undang-undang dinilai bertentangan dengan UUD 1945. Langkah konstitusional yang tersedia bagi warga adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Mengabaikan undang-undang tersebut
+    - Mengajukan keberatan kepada Presiden
+    - Mengajukan permohonan pengujian undang-undang ke Mahkamah Konstitusi
+    - Meminta DPR membatalkan putusan Mahkamah Konstitusi
+    correctAns: Mengajukan permohonan pengujian undang-undang ke Mahkamah Konstitusi
